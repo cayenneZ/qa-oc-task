@@ -1,4 +1,4 @@
-# Take home assignment
+# Take home assignment - Shopping cart
   Hello! 👋
 
   Congratulations on making it to the second round! 
