@@ -52,3 +52,7 @@ Items:
 2. If there is no name OR the image is broken, this item should be hidden from the list. 
 
 
+If you're stuck on a bug or something needs clarification you can email [Max](mailto:max@oneclass.com) for help.
+
+Good Luck! 🚀
+
